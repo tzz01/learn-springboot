@@ -1,0 +1,11 @@
+abc:
+  ddd: ddd
+  fff: fff
+  flag: true
+
+openbank:
+  myCertPath: /openbank/ABC_OpenBank_ThridPart_Test.pfx
+  abcPubCertPath: /openbank/ABC_Openbank_Sandbox.cer
+  myCertPwd: 111111
+  # 与client_secret相同
+  keyStore: cb79b66e193e4cfca0bd746e3dcd488c03cc4081
